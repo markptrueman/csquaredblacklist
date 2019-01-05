@@ -1,7 +1,1 @@
-{
-users : 
-[
- "martinmcfly",
-"fulltimegeek"
-]
-}
+martinmcfly,fulltimegeek
