@@ -1,2 +1,7 @@
-martinmcfly
-fulltimegeek
+{
+users : 
+[
+ "martinmcfly",
+"fulltimegeek"
+]
+}
