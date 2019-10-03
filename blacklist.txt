@@ -34,4 +34,5 @@ juanjosexdd7,
 teammoney,
 li-art,
 adip,
-bembelmaniac
+bembelmaniac,
+curly-xu
