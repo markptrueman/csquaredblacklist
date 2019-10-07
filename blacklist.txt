@@ -35,4 +35,6 @@ teammoney,
 li-art,
 adip,
 bembelmaniac,
-curly-xu
+curly-xu,
+travelltheworldd,
+stefaniaveliz
