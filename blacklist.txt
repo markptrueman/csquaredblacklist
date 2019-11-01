@@ -39,4 +39,5 @@ curly-xu,
 travelltheworldd,
 stefaniaveliz,
 lucydyer,
-misachan
+misachan,
+trincowski
