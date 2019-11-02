@@ -40,5 +40,4 @@ travelltheworldd,
 stefaniaveliz,
 lucydyer,
 misachan,
-trincowski,
-test
+trincowski
