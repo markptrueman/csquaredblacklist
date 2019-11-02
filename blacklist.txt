@@ -41,5 +41,3 @@ stefaniaveliz,
 lucydyer,
 misachan,
 trincowski,
-ned,
-ned2
