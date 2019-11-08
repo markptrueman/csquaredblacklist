@@ -43,5 +43,4 @@ misachan,
 trincowski,
 chefaiko,
 teungkumerdu,
-samswim,
 samswim
